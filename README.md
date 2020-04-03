@@ -1,2 +1,2 @@
 # Pong
-Github for team Lab
+Github for teams Lab
